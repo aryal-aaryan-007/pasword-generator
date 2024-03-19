@@ -1,0 +1,24 @@
+.cover {
+    height: 500px;
+    width: 400px;
+    background-color: rgba(24, 49, 136, 0.814);
+    margin-left: auto;
+    margin-right: auto;
+    top: 50%;
+    -ms-transform: translateY(40%);
+    transform: translateY(25%);
+    padding: 100px;
+    padding-top: 40px;
+    border: solid black 2px;
+    border-radius: 20px;
+}
+
+.password-show {
+    position: absolute;
+    left: 46%;
+    font-size: 23px;
+    text-align: center;
+    top: 42%;
+    -ms-transform: translateY(40%);
+    transform: translateY(25%);
+}
